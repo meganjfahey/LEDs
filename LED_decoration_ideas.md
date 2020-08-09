@@ -31,6 +31,7 @@
 * Use soldering equipment at campus
 * Do the string in parallel, or in units containing parallel lights, to meet power supply constraints
 * Find out if need resistors for this
+* https://www.youtube.com/watch?v=7kQADYm6ivY - building a string circuit
 
 **What would they be used for?**
 * Putting in jars
