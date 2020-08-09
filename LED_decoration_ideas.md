@@ -1,7 +1,7 @@
-## Decoration ideas:
+# Decoration ideas:
 
 
-**Repurpose existing ping pong ball LED strings**
+### Repurpose existing ping pong ball LED strings 
 * Get the lights from friend
 * See what the state of the controls are
 * Set up new controls, with NodeMCU and FastLED, Arduino or Adafruit libraries
@@ -12,7 +12,7 @@
 * Clustered on floor (if circuit is safe enough)?
 
 
-**Use existing LED strips**
+### Use existing LED strips
 * Connect them into long strips
 * Program/control with NodeMCU, or with other controller
 * FastLED library
@@ -25,7 +25,7 @@
 * Windowsills
 
 
-**Make strings from single LEDs**
+### Make strings from single LEDs
 * Source LEDs; from friends with unused ones, or buy
 * Get something like wall art with a 12V supply from a second hand store
 * Use soldering equipment at campus
@@ -38,7 +38,7 @@
 * Stringing with plants and flowers
 
 
-**Buy copper strings**
+### Buy copper strings
 * If it becomes too impractical to make my own strings, then buy simple ones from Kmart, The Warehouse, or LightInTheBox NZ
 
 **What would they be used for?**
