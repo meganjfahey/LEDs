@@ -1,5 +1,8 @@
 # Potential Pre-made LED Decorations
 
+## Fake candles
+* To put onto second-hand candlebras, put in plants
+
 ## Plain Strings
 
 * $7 - Living & Co Twinkle Light Warm White LED Copper 5m - https://www.thewarehouse.co.nz/p/living-co-twinkle-light-warm-white-led-copper-5m/R2540995.html?gclsrc=aw.ds&ds_rl=1268368&ds_rl=1268368&gclid=CjwKCAjwmrn5BRB2EiwAZgL9ogs4ca5UAC2IYReGwpXgSQB0-qFBj2yp6OFdVT5_jOt5KT3S9o9ZQhoCRBgQAvD_BwE&gclsrc=aw.ds
